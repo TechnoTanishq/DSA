@@ -20,4 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/TechnoTanishq/DSA/tree/master/0930-binary-subarrays-with-sum) |
+## String
+|  |
+| ------- |
+| [0940-distinct-subsequences-ii](https://github.com/TechnoTanishq/DSA/tree/master/0940-distinct-subsequences-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0940-distinct-subsequences-ii](https://github.com/TechnoTanishq/DSA/tree/master/0940-distinct-subsequences-ii) |
 <!---LeetCode Topics End-->
