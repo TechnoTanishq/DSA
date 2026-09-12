@@ -24,11 +24,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/TechnoTanishq/DSA/tree/master/0930-binary-subarrays-with-sum) |
+| [1839-longest-substring-of-all-vowels-in-order](https://github.com/TechnoTanishq/DSA/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 ## String
 |  |
 | ------- |
 | [0097-interleaving-string](https://github.com/TechnoTanishq/DSA/tree/master/0097-interleaving-string) |
 | [0940-distinct-subsequences-ii](https://github.com/TechnoTanishq/DSA/tree/master/0940-distinct-subsequences-ii) |
+| [1839-longest-substring-of-all-vowels-in-order](https://github.com/TechnoTanishq/DSA/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 ## Dynamic Programming
 |  |
 | ------- |
