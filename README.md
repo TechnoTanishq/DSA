@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/TechnoTanishq/DSA/tree/master/0011-container-with-most-water) |
 | [0216-combination-sum-iii](https://github.com/TechnoTanishq/DSA/tree/master/0216-combination-sum-iii) |
 | [0221-maximal-square](https://github.com/TechnoTanishq/DSA/tree/master/0221-maximal-square) |
 | [0525-contiguous-array](https://github.com/TechnoTanishq/DSA/tree/master/0525-contiguous-array) |
@@ -77,4 +78,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/TechnoTanishq/DSA/tree/master/0836-rectangle-overlap) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/TechnoTanishq/DSA/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/TechnoTanishq/DSA/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
