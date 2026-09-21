@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/TechnoTanishq/DSA/tree/master/0011-container-with-most-water) |
+| [0179-largest-number](https://github.com/TechnoTanishq/DSA/tree/master/0179-largest-number) |
 | [0216-combination-sum-iii](https://github.com/TechnoTanishq/DSA/tree/master/0216-combination-sum-iii) |
 | [0221-maximal-square](https://github.com/TechnoTanishq/DSA/tree/master/0221-maximal-square) |
 | [0334-increasing-triplet-subsequence](https://github.com/TechnoTanishq/DSA/tree/master/0334-increasing-triplet-subsequence) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0097-interleaving-string](https://github.com/TechnoTanishq/DSA/tree/master/0097-interleaving-string) |
+| [0179-largest-number](https://github.com/TechnoTanishq/DSA/tree/master/0179-largest-number) |
 | [0940-distinct-subsequences-ii](https://github.com/TechnoTanishq/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/TechnoTanishq/DSA/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [3498-reverse-degree-of-a-string](https://github.com/TechnoTanishq/DSA/tree/master/3498-reverse-degree-of-a-string) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/TechnoTanishq/DSA/tree/master/0011-container-with-most-water) |
+| [0179-largest-number](https://github.com/TechnoTanishq/DSA/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/TechnoTanishq/DSA/tree/master/0334-increasing-triplet-subsequence) |
 ## Simulation
 |  |
@@ -97,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/TechnoTanishq/DSA/tree/master/0334-increasing-triplet-subsequence) |
+## Sorting
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/TechnoTanishq/DSA/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
