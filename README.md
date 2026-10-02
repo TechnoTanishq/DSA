@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/TechnoTanishq/DSA/tree/master/0210-course-schedule-ii) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/TechnoTanishq/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -140,4 +141,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/TechnoTanishq/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/TechnoTanishq/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/TechnoTanishq/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/TechnoTanishq/DSA/tree/master/0210-course-schedule-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/TechnoTanishq/DSA/tree/master/0210-course-schedule-ii) |
+## Topological Sort
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/TechnoTanishq/DSA/tree/master/0210-course-schedule-ii) |
 <!---LeetCode Topics End-->
