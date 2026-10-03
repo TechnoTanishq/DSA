@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/TechnoTanishq/DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/TechnoTanishq/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0097-interleaving-string](https://github.com/TechnoTanishq/DSA/tree/master/0097-interleaving-string) |
 | [0179-largest-number](https://github.com/TechnoTanishq/DSA/tree/master/0179-largest-number) |
 | [0647-palindromic-substrings](https://github.com/TechnoTanishq/DSA/tree/master/0647-palindromic-substrings) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/TechnoTanishq/DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/TechnoTanishq/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0097-interleaving-string](https://github.com/TechnoTanishq/DSA/tree/master/0097-interleaving-string) |
 | [0221-maximal-square](https://github.com/TechnoTanishq/DSA/tree/master/0221-maximal-square) |
 | [0647-palindromic-substrings](https://github.com/TechnoTanishq/DSA/tree/master/0647-palindromic-substrings) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/TechnoTanishq/DSA/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/TechnoTanishq/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/TechnoTanishq/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/TechnoTanishq/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/TechnoTanishq/DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/TechnoTanishq/DSA/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/TechnoTanishq/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/TechnoTanishq/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/TechnoTanishq/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
