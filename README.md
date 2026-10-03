@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/TechnoTanishq/DSA/tree/master/0022-generate-parentheses) |
 | [0097-interleaving-string](https://github.com/TechnoTanishq/DSA/tree/master/0097-interleaving-string) |
 | [0179-largest-number](https://github.com/TechnoTanishq/DSA/tree/master/0179-largest-number) |
+| [0647-palindromic-substrings](https://github.com/TechnoTanishq/DSA/tree/master/0647-palindromic-substrings) |
 | [0940-distinct-subsequences-ii](https://github.com/TechnoTanishq/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/TechnoTanishq/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/TechnoTanishq/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/TechnoTanishq/DSA/tree/master/0022-generate-parentheses) |
 | [0097-interleaving-string](https://github.com/TechnoTanishq/DSA/tree/master/0097-interleaving-string) |
 | [0221-maximal-square](https://github.com/TechnoTanishq/DSA/tree/master/0221-maximal-square) |
+| [0647-palindromic-substrings](https://github.com/TechnoTanishq/DSA/tree/master/0647-palindromic-substrings) |
 | [0940-distinct-subsequences-ii](https://github.com/TechnoTanishq/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/TechnoTanishq/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Math
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/TechnoTanishq/DSA/tree/master/0011-container-with-most-water) |
+| [0647-palindromic-substrings](https://github.com/TechnoTanishq/DSA/tree/master/0647-palindromic-substrings) |
 ## Greedy
 |  |
 | ------- |
