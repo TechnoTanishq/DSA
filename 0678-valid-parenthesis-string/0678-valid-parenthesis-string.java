@@ -1,23 +1,47 @@
 class Solution {
-    public boolean checkValidString(String s) {
-        int minOpen = 0 ; 
-        int maxOpen = 0 ;
-        for(char ch : s.toCharArray()){
-            if(ch=='('){
-                minOpen++;
-                maxOpen++;
+    public boolean solve(int i , int open , String s , Boolean[][] dp){
+       //base cases 
+       if(open < 0)return false;
+
+
+       if( i == s.length()){
+        return open==0;
+
+       }
+
+       if(dp[i][open] != null){
+        return dp[i][open];
+       }
+
+
+        boolean isValid = false;       
+            char ch = s.charAt(i);
+
+            if(ch == '('){
+               isValid =  solve(i+1 , open+1 , s , dp);
             }
-            else if(ch==')'){
-                minOpen--;
-                maxOpen--;
+            else if(ch == '*'){
+                isValid = 
+                solve(i+1 , open+1 , s, dp) || 
+                solve(i+1 , open , s , dp)|| 
+                solve(i+1 , open-1 , s, dp);
             }
             else{
-                minOpen--;
-                maxOpen++;
+               isValid =  solve(i+1 , open -1 , s, dp);
             }
-            if(minOpen < 0)minOpen = 0;
-            if(maxOpen < 0)return false;
-        }
-        return (minOpen==0);
-    }   
+     
+          return dp[i][open] = isValid;
+    }
+    public boolean checkValidString(String s) {
+        
+        int n = s.length();
+        int open = 0 ;
+
+        Boolean[][] dp = new Boolean[n][n];
+        
+     
+        boolean res = solve(0 , open , s , dp);
+        
+        return res ;
+    }
 }
