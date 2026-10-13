@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/TechnoTanishq/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3483-unique-3-digit-even-numbers](https://github.com/TechnoTanishq/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/TechnoTanishq/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/TechnoTanishq/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/TechnoTanishq/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/TechnoTanishq/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/TechnoTanishq/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/TechnoTanishq/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Simulation
 |  |
 | ------- |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/TechnoTanishq/DSA/tree/master/0179-largest-number) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/TechnoTanishq/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Search
 |  |
 | ------- |
