@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/TechnoTanishq/DSA/tree/master/0836-rectangle-overlap) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/TechnoTanishq/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/TechnoTanishq/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/TechnoTanishq/DSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/TechnoTanishq/DSA/tree/master/3871-count-commas-in-range-ii) |
 ## Matrix
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/TechnoTanishq/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/TechnoTanishq/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/TechnoTanishq/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/TechnoTanishq/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/TechnoTanishq/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Simulation
 |  |
