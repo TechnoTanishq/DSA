@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/TechnoTanishq/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0097-interleaving-string](https://github.com/TechnoTanishq/DSA/tree/master/0097-interleaving-string) |
 | [0179-largest-number](https://github.com/TechnoTanishq/DSA/tree/master/0179-largest-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/TechnoTanishq/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0647-palindromic-substrings](https://github.com/TechnoTanishq/DSA/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/TechnoTanishq/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/TechnoTanishq/DSA/tree/master/0856-score-of-parentheses) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/TechnoTanishq/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0097-interleaving-string](https://github.com/TechnoTanishq/DSA/tree/master/0097-interleaving-string) |
 | [0221-maximal-square](https://github.com/TechnoTanishq/DSA/tree/master/0221-maximal-square) |
+| [0241-different-ways-to-add-parentheses](https://github.com/TechnoTanishq/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0647-palindromic-substrings](https://github.com/TechnoTanishq/DSA/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/TechnoTanishq/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/TechnoTanishq/DSA/tree/master/0940-distinct-subsequences-ii) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/TechnoTanishq/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0836-rectangle-overlap](https://github.com/TechnoTanishq/DSA/tree/master/0836-rectangle-overlap) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/TechnoTanishq/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/TechnoTanishq/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/TechnoTanishq/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [3483-unique-3-digit-even-numbers](https://github.com/TechnoTanishq/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
@@ -170,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/TechnoTanishq/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/TechnoTanishq/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0241-different-ways-to-add-parentheses](https://github.com/TechnoTanishq/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/TechnoTanishq/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/TechnoTanishq/DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/TechnoTanishq/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -203,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/TechnoTanishq/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/TechnoTanishq/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
