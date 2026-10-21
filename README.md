@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/TechnoTanishq/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0097-interleaving-string](https://github.com/TechnoTanishq/DSA/tree/master/0097-interleaving-string) |
 | [0221-maximal-square](https://github.com/TechnoTanishq/DSA/tree/master/0221-maximal-square) |
+| [0233-number-of-digit-one](https://github.com/TechnoTanishq/DSA/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/TechnoTanishq/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0337-house-robber-iii](https://github.com/TechnoTanishq/DSA/tree/master/0337-house-robber-iii) |
 | [0576-out-of-boundary-paths](https://github.com/TechnoTanishq/DSA/tree/master/0576-out-of-boundary-paths) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/TechnoTanishq/DSA/tree/master/0224-basic-calculator) |
+| [0233-number-of-digit-one](https://github.com/TechnoTanishq/DSA/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/TechnoTanishq/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0836-rectangle-overlap](https://github.com/TechnoTanishq/DSA/tree/master/0836-rectangle-overlap) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/TechnoTanishq/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/TechnoTanishq/DSA/tree/master/0224-basic-calculator) |
+| [0233-number-of-digit-one](https://github.com/TechnoTanishq/DSA/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/TechnoTanishq/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [3483-unique-3-digit-even-numbers](https://github.com/TechnoTanishq/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
