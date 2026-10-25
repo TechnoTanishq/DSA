@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/TechnoTanishq/DSA/tree/master/0525-contiguous-array) |
 | [0835-image-overlap](https://github.com/TechnoTanishq/DSA/tree/master/0835-image-overlap) |
 | [0930-binary-subarrays-with-sum](https://github.com/TechnoTanishq/DSA/tree/master/0930-binary-subarrays-with-sum) |
+| [1254-number-of-closed-islands](https://github.com/TechnoTanishq/DSA/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/TechnoTanishq/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/TechnoTanishq/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/TechnoTanishq/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0221-maximal-square](https://github.com/TechnoTanishq/DSA/tree/master/0221-maximal-square) |
 | [0835-image-overlap](https://github.com/TechnoTanishq/DSA/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/TechnoTanishq/DSA/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/TechnoTanishq/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Tree
 |  |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0210-course-schedule-ii](https://github.com/TechnoTanishq/DSA/tree/master/0210-course-schedule-ii) |
 | [0337-house-robber-iii](https://github.com/TechnoTanishq/DSA/tree/master/0337-house-robber-iii) |
+| [1254-number-of-closed-islands](https://github.com/TechnoTanishq/DSA/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/TechnoTanishq/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/TechnoTanishq/DSA/tree/master/0210-course-schedule-ii) |
+| [1254-number-of-closed-islands](https://github.com/TechnoTanishq/DSA/tree/master/1254-number-of-closed-islands) |
 ## Graph Theory
 |  |
 | ------- |
@@ -267,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/TechnoTanishq/DSA/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/TechnoTanishq/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
