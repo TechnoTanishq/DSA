@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/TechnoTanishq/DSA/tree/master/0605-can-place-flowers) |
 | [0835-image-overlap](https://github.com/TechnoTanishq/DSA/tree/master/0835-image-overlap) |
 | [0930-binary-subarrays-with-sum](https://github.com/TechnoTanishq/DSA/tree/master/0930-binary-subarrays-with-sum) |
+| [0934-shortest-bridge](https://github.com/TechnoTanishq/DSA/tree/master/0934-shortest-bridge) |
 | [1254-number-of-closed-islands](https://github.com/TechnoTanishq/DSA/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/TechnoTanishq/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/TechnoTanishq/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0221-maximal-square](https://github.com/TechnoTanishq/DSA/tree/master/0221-maximal-square) |
 | [0835-image-overlap](https://github.com/TechnoTanishq/DSA/tree/master/0835-image-overlap) |
+| [0934-shortest-bridge](https://github.com/TechnoTanishq/DSA/tree/master/0934-shortest-bridge) |
 | [1254-number-of-closed-islands](https://github.com/TechnoTanishq/DSA/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/TechnoTanishq/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/TechnoTanishq/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0210-course-schedule-ii](https://github.com/TechnoTanishq/DSA/tree/master/0210-course-schedule-ii) |
 | [0337-house-robber-iii](https://github.com/TechnoTanishq/DSA/tree/master/0337-house-robber-iii) |
+| [0934-shortest-bridge](https://github.com/TechnoTanishq/DSA/tree/master/0934-shortest-bridge) |
 | [1254-number-of-closed-islands](https://github.com/TechnoTanishq/DSA/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/TechnoTanishq/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/TechnoTanishq/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/TechnoTanishq/DSA/tree/master/0210-course-schedule-ii) |
+| [0934-shortest-bridge](https://github.com/TechnoTanishq/DSA/tree/master/0934-shortest-bridge) |
 | [1254-number-of-closed-islands](https://github.com/TechnoTanishq/DSA/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/TechnoTanishq/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
