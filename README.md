@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/TechnoTanishq/DSA/tree/master/0216-combination-sum-iii) |
 | [0221-maximal-square](https://github.com/TechnoTanishq/DSA/tree/master/0221-maximal-square) |
 | [0334-increasing-triplet-subsequence](https://github.com/TechnoTanishq/DSA/tree/master/0334-increasing-triplet-subsequence) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/TechnoTanishq/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0525-contiguous-array](https://github.com/TechnoTanishq/DSA/tree/master/0525-contiguous-array) |
 | [0605-can-place-flowers](https://github.com/TechnoTanishq/DSA/tree/master/0605-can-place-flowers) |
 | [0835-image-overlap](https://github.com/TechnoTanishq/DSA/tree/master/0835-image-overlap) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/TechnoTanishq/DSA/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/TechnoTanishq/DSA/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/TechnoTanishq/DSA/tree/master/0241-different-ways-to-add-parentheses) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/TechnoTanishq/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/TechnoTanishq/DSA/tree/master/0836-rectangle-overlap) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/TechnoTanishq/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/TechnoTanishq/DSA/tree/master/2348-number-of-zero-filled-subarrays) |
