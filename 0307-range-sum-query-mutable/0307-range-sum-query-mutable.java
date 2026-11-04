@@ -1,50 +1,59 @@
-
 class NumArray {
-
-    int[] bit;
-    int[] nums;
-    int N;
+    int[] segmentTree;
+    int n;
 
     public NumArray(int[] nums) {
-        this.N = nums.length;
-        this.nums = nums.clone();
-        this.bit = new int[N + 1];
-
-        //initializing the Fenwick Tree
-        for (int i = 0; i < N; i++) {
-            add(i + 1, nums[i]);
-        }
+        n = nums.length;
+        segmentTree = new int[4 * n];
+        buildSegmentTree(0, 0, n - 1, nums); // Build the segment tree
     }
 
-    //adding difference to BIT
-    public void add(int index, int val) {
-        while (index <= N) {
-            bit[index] += val;
-            index += (index & (-index));
+    private void buildSegmentTree(int i, int left, int right, int[] nums) {
+        if (left == right) {
+            segmentTree[i] = nums[left];
+            return;
         }
+        int mid = left + (right - left) / 2;
+        buildSegmentTree(2 * i + 1, left, mid, nums);
+        buildSegmentTree(2 * i + 2, mid + 1, right, nums);
+        segmentTree[i] = segmentTree[2 * i + 1] + segmentTree[2 * i + 2];
     }
 
     public void update(int index, int val) {
+        updateST(index, val, 0, 0, n - 1);
+    }
 
-        int diff = val - nums[index];
-
-        nums[index] = val;
-
-        add(index + 1, diff);
+    private void updateST(int index, int val, int i, int left, int right) {
+        if (left == right) {
+            segmentTree[i] = val;
+            return;
+        }
+        int mid = left + (right - left) / 2;
+        if (index <= mid) {
+            updateST(index, val, 2 * i + 1, left, mid);
+        } else {
+            updateST(index, val, 2 * i + 2, mid + 1, right);
+        }
+        segmentTree[i] = segmentTree[2 * i + 1] + segmentTree[2 * i + 2];
     }
 
     public int sumRange(int left, int right) {
-        return sum(right + 1) - sum(left);
+        return querySum(0, 0, n - 1, left, right);
     }
 
-    public int sum(int idx) {
-        int ans = 0;
-
-        while (idx > 0) {
-            ans += bit[idx];
-            idx -= (idx & (-idx));
+    private int querySum(int i, int left, int right, int qLeft, int qRight) {
+       
+        if (qLeft > right || qRight < left) {
+            return 0;
         }
-
-        return ans;
+     
+        if (qLeft <= left && qRight >= right) {
+            return segmentTree[i];
+        }
+       
+        int mid = left + (right - left) / 2;
+        int leftSum = querySum(2 * i + 1, left, mid, qLeft, qRight);
+        int rightSum = querySum(2 * i + 2, mid + 1, right, qLeft, qRight);
+        return leftSum + rightSum;
     }
 }
