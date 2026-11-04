@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/TechnoTanishq/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/TechnoTanishq/DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/TechnoTanishq/DSA/tree/master/3483-unique-3-digit-even-numbers) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/TechnoTanishq/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/TechnoTanishq/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/TechnoTanishq/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/TechnoTanishq/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/TechnoTanishq/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/TechnoTanishq/DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/TechnoTanishq/DSA/tree/master/3483-unique-3-digit-even-numbers) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/TechnoTanishq/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/TechnoTanishq/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Prefix Sum
 |  |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/TechnoTanishq/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/TechnoTanishq/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/TechnoTanishq/DSA/tree/master/1839-longest-substring-of-all-vowels-in-order) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/TechnoTanishq/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## String
 |  |
 | ------- |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2719-count-of-integers](https://github.com/TechnoTanishq/DSA/tree/master/2719-count-of-integers) |
 | [2801-count-stepping-numbers-in-range](https://github.com/TechnoTanishq/DSA/tree/master/2801-count-stepping-numbers-in-range) |
 | [2827-number-of-beautiful-integers-in-the-range](https://github.com/TechnoTanishq/DSA/tree/master/2827-number-of-beautiful-integers-in-the-range) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/TechnoTanishq/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/TechnoTanishq/DSA/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/TechnoTanishq/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Math
@@ -128,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2348-number-of-zero-filled-subarrays](https://github.com/TechnoTanishq/DSA/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2719-count-of-integers](https://github.com/TechnoTanishq/DSA/tree/master/2719-count-of-integers) |
 | [2827-number-of-beautiful-integers-in-the-range](https://github.com/TechnoTanishq/DSA/tree/master/2827-number-of-beautiful-integers-in-the-range) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/TechnoTanishq/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/TechnoTanishq/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/TechnoTanishq/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/TechnoTanishq/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -333,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/TechnoTanishq/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/TechnoTanishq/DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
 |  |
