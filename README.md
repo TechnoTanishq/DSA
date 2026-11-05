@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/TechnoTanishq/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0934-shortest-bridge](https://github.com/TechnoTanishq/DSA/tree/master/0934-shortest-bridge) |
 | [1254-number-of-closed-islands](https://github.com/TechnoTanishq/DSA/tree/master/1254-number-of-closed-islands) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/TechnoTanishq/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1395-count-number-of-teams](https://github.com/TechnoTanishq/DSA/tree/master/1395-count-number-of-teams) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/TechnoTanishq/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/TechnoTanishq/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/TechnoTanishq/DSA/tree/master/0011-container-with-most-water) |
 | [0647-palindromic-substrings](https://github.com/TechnoTanishq/DSA/tree/master/0647-palindromic-substrings) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/TechnoTanishq/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Greedy
 |  |
 | ------- |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/TechnoTanishq/DSA/tree/master/0179-largest-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/TechnoTanishq/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/TechnoTanishq/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/TechnoTanishq/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/TechnoTanishq/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/TechnoTanishq/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/TechnoTanishq/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/TechnoTanishq/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/TechnoTanishq/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/TechnoTanishq/DSA/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
