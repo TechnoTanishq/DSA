@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/TechnoTanishq/DSA/tree/master/0835-image-overlap) |
 | [0930-binary-subarrays-with-sum](https://github.com/TechnoTanishq/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0934-shortest-bridge](https://github.com/TechnoTanishq/DSA/tree/master/0934-shortest-bridge) |
+| [0980-unique-paths-iii](https://github.com/TechnoTanishq/DSA/tree/master/0980-unique-paths-iii) |
 | [1254-number-of-closed-islands](https://github.com/TechnoTanishq/DSA/tree/master/1254-number-of-closed-islands) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/TechnoTanishq/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1395-count-number-of-teams](https://github.com/TechnoTanishq/DSA/tree/master/1395-count-number-of-teams) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/TechnoTanishq/DSA/tree/master/0221-maximal-square) |
 | [0835-image-overlap](https://github.com/TechnoTanishq/DSA/tree/master/0835-image-overlap) |
 | [0934-shortest-bridge](https://github.com/TechnoTanishq/DSA/tree/master/0934-shortest-bridge) |
+| [0980-unique-paths-iii](https://github.com/TechnoTanishq/DSA/tree/master/0980-unique-paths-iii) |
 | [1254-number-of-closed-islands](https://github.com/TechnoTanishq/DSA/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/TechnoTanishq/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/TechnoTanishq/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/TechnoTanishq/DSA/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/TechnoTanishq/DSA/tree/master/0079-word-search) |
 | [0216-combination-sum-iii](https://github.com/TechnoTanishq/DSA/tree/master/0216-combination-sum-iii) |
+| [0980-unique-paths-iii](https://github.com/TechnoTanishq/DSA/tree/master/0980-unique-paths-iii) |
 ## Recursion
 |  |
 | ------- |
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0980-unique-paths-iii](https://github.com/TechnoTanishq/DSA/tree/master/0980-unique-paths-iii) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/TechnoTanishq/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/TechnoTanishq/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/TechnoTanishq/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -371,4 +375,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/TechnoTanishq/DSA/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
+## Hamiltonian Path
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/TechnoTanishq/DSA/tree/master/0980-unique-paths-iii) |
 <!---LeetCode Topics End-->
