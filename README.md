@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/TechnoTanishq/DSA/tree/master/0011-container-with-most-water) |
+| [0079-word-search](https://github.com/TechnoTanishq/DSA/tree/master/0079-word-search) |
 | [0179-largest-number](https://github.com/TechnoTanishq/DSA/tree/master/0179-largest-number) |
 | [0216-combination-sum-iii](https://github.com/TechnoTanishq/DSA/tree/master/0216-combination-sum-iii) |
 | [0221-maximal-square](https://github.com/TechnoTanishq/DSA/tree/master/0221-maximal-square) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/TechnoTanishq/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/TechnoTanishq/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/TechnoTanishq/DSA/tree/master/0038-count-and-say) |
+| [0079-word-search](https://github.com/TechnoTanishq/DSA/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/TechnoTanishq/DSA/tree/master/0097-interleaving-string) |
 | [0179-largest-number](https://github.com/TechnoTanishq/DSA/tree/master/0179-largest-number) |
 | [0224-basic-calculator](https://github.com/TechnoTanishq/DSA/tree/master/0224-basic-calculator) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/TechnoTanishq/DSA/tree/master/0079-word-search) |
 | [0221-maximal-square](https://github.com/TechnoTanishq/DSA/tree/master/0221-maximal-square) |
 | [0835-image-overlap](https://github.com/TechnoTanishq/DSA/tree/master/0835-image-overlap) |
 | [0934-shortest-bridge](https://github.com/TechnoTanishq/DSA/tree/master/0934-shortest-bridge) |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/TechnoTanishq/DSA/tree/master/0079-word-search) |
 | [0210-course-schedule-ii](https://github.com/TechnoTanishq/DSA/tree/master/0210-course-schedule-ii) |
 | [0337-house-robber-iii](https://github.com/TechnoTanishq/DSA/tree/master/0337-house-robber-iii) |
 | [0934-shortest-bridge](https://github.com/TechnoTanishq/DSA/tree/master/0934-shortest-bridge) |
@@ -179,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/TechnoTanishq/DSA/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/TechnoTanishq/DSA/tree/master/0079-word-search) |
 | [0216-combination-sum-iii](https://github.com/TechnoTanishq/DSA/tree/master/0216-combination-sum-iii) |
 ## Recursion
 |  |
