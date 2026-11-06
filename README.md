@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/TechnoTanishq/DSA/tree/master/0011-container-with-most-water) |
+| [0046-permutations](https://github.com/TechnoTanishq/DSA/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/TechnoTanishq/DSA/tree/master/0079-word-search) |
 | [0179-largest-number](https://github.com/TechnoTanishq/DSA/tree/master/0179-largest-number) |
 | [0216-combination-sum-iii](https://github.com/TechnoTanishq/DSA/tree/master/0216-combination-sum-iii) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/TechnoTanishq/DSA/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/TechnoTanishq/DSA/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/TechnoTanishq/DSA/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/TechnoTanishq/DSA/tree/master/0079-word-search) |
 | [0216-combination-sum-iii](https://github.com/TechnoTanishq/DSA/tree/master/0216-combination-sum-iii) |
