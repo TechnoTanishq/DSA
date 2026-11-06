@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/TechnoTanishq/DSA/tree/master/0060-permutation-sequence) |
 | [0224-basic-calculator](https://github.com/TechnoTanishq/DSA/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/TechnoTanishq/DSA/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/TechnoTanishq/DSA/tree/master/0241-different-ways-to-add-parentheses) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/TechnoTanishq/DSA/tree/master/0060-permutation-sequence) |
 | [0224-basic-calculator](https://github.com/TechnoTanishq/DSA/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/TechnoTanishq/DSA/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/TechnoTanishq/DSA/tree/master/0241-different-ways-to-add-parentheses) |
