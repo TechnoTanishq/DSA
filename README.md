@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/TechnoTanishq/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/TechnoTanishq/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/TechnoTanishq/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0491-non-decreasing-subsequences](https://github.com/TechnoTanishq/DSA/tree/master/0491-non-decreasing-subsequences) |
 | [0525-contiguous-array](https://github.com/TechnoTanishq/DSA/tree/master/0525-contiguous-array) |
 | [0605-can-place-flowers](https://github.com/TechnoTanishq/DSA/tree/master/0605-can-place-flowers) |
 | [0835-image-overlap](https://github.com/TechnoTanishq/DSA/tree/master/0835-image-overlap) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0491-non-decreasing-subsequences](https://github.com/TechnoTanishq/DSA/tree/master/0491-non-decreasing-subsequences) |
 | [0525-contiguous-array](https://github.com/TechnoTanishq/DSA/tree/master/0525-contiguous-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/TechnoTanishq/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/TechnoTanishq/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/TechnoTanishq/DSA/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/TechnoTanishq/DSA/tree/master/0079-word-search) |
 | [0216-combination-sum-iii](https://github.com/TechnoTanishq/DSA/tree/master/0216-combination-sum-iii) |
+| [0491-non-decreasing-subsequences](https://github.com/TechnoTanishq/DSA/tree/master/0491-non-decreasing-subsequences) |
 | [0980-unique-paths-iii](https://github.com/TechnoTanishq/DSA/tree/master/0980-unique-paths-iii) |
 ## Recursion
 |  |
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0491-non-decreasing-subsequences](https://github.com/TechnoTanishq/DSA/tree/master/0491-non-decreasing-subsequences) |
 | [0980-unique-paths-iii](https://github.com/TechnoTanishq/DSA/tree/master/0980-unique-paths-iii) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/TechnoTanishq/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/TechnoTanishq/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
