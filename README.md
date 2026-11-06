@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/TechnoTanishq/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1395-count-number-of-teams](https://github.com/TechnoTanishq/DSA/tree/master/1395-count-number-of-teams) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/TechnoTanishq/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/TechnoTanishq/DSA/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/TechnoTanishq/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/TechnoTanishq/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/TechnoTanishq/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/TechnoTanishq/DSA/tree/master/0216-combination-sum-iii) |
 | [0491-non-decreasing-subsequences](https://github.com/TechnoTanishq/DSA/tree/master/0491-non-decreasing-subsequences) |
 | [0980-unique-paths-iii](https://github.com/TechnoTanishq/DSA/tree/master/0980-unique-paths-iii) |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/TechnoTanishq/DSA/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [2305-fair-distribution-of-cookies](https://github.com/TechnoTanishq/DSA/tree/master/2305-fair-distribution-of-cookies) |
 ## Recursion
 |  |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/TechnoTanishq/DSA/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/TechnoTanishq/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/TechnoTanishq/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3886-sum-of-sortable-integers](https://github.com/TechnoTanishq/DSA/tree/master/3886-sum-of-sortable-integers) |
@@ -309,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0491-non-decreasing-subsequences](https://github.com/TechnoTanishq/DSA/tree/master/0491-non-decreasing-subsequences) |
 | [0980-unique-paths-iii](https://github.com/TechnoTanishq/DSA/tree/master/0980-unique-paths-iii) |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/TechnoTanishq/DSA/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [2305-fair-distribution-of-cookies](https://github.com/TechnoTanishq/DSA/tree/master/2305-fair-distribution-of-cookies) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/TechnoTanishq/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/TechnoTanishq/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
