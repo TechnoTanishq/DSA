@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1395-count-number-of-teams](https://github.com/TechnoTanishq/DSA/tree/master/1395-count-number-of-teams) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/TechnoTanishq/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/TechnoTanishq/DSA/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/TechnoTanishq/DSA/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/TechnoTanishq/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/TechnoTanishq/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1882-process-tasks-using-servers](https://github.com/TechnoTanishq/DSA/tree/master/1882-process-tasks-using-servers) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/TechnoTanishq/DSA/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [3498-reverse-degree-of-a-string](https://github.com/TechnoTanishq/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Longest Increasing Subsequence
 |  |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/TechnoTanishq/DSA/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/TechnoTanishq/DSA/tree/master/1882-process-tasks-using-servers) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/TechnoTanishq/DSA/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/TechnoTanishq/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -415,4 +418,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/TechnoTanishq/DSA/tree/master/1267-count-servers-that-communicate) |
+## Ordered Set
+|  |
+| ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/TechnoTanishq/DSA/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 <!---LeetCode Topics End-->
