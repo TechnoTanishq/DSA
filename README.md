@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/TechnoTanishq/DSA/tree/master/0011-container-with-most-water) |
 | [0046-permutations](https://github.com/TechnoTanishq/DSA/tree/master/0046-permutations) |
+| [0053-maximum-subarray](https://github.com/TechnoTanishq/DSA/tree/master/0053-maximum-subarray) |
 | [0079-word-search](https://github.com/TechnoTanishq/DSA/tree/master/0079-word-search) |
 | [0179-largest-number](https://github.com/TechnoTanishq/DSA/tree/master/0179-largest-number) |
 | [0216-combination-sum-iii](https://github.com/TechnoTanishq/DSA/tree/master/0216-combination-sum-iii) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/TechnoTanishq/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/TechnoTanishq/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0053-maximum-subarray](https://github.com/TechnoTanishq/DSA/tree/master/0053-maximum-subarray) |
 | [0097-interleaving-string](https://github.com/TechnoTanishq/DSA/tree/master/0097-interleaving-string) |
 | [0221-maximal-square](https://github.com/TechnoTanishq/DSA/tree/master/0221-maximal-square) |
 | [0233-number-of-digit-one](https://github.com/TechnoTanishq/DSA/tree/master/0233-number-of-digit-one) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/TechnoTanishq/DSA/tree/master/0053-maximum-subarray) |
 | [0307-range-sum-query-mutable](https://github.com/TechnoTanishq/DSA/tree/master/0307-range-sum-query-mutable) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/TechnoTanishq/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/TechnoTanishq/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
