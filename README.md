@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/TechnoTanishq/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/TechnoTanishq/DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/TechnoTanishq/DSA/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
+| [3149-find-the-minimum-cost-array-permutation](https://github.com/TechnoTanishq/DSA/tree/master/3149-find-the-minimum-cost-array-permutation) |
 | [3483-unique-3-digit-even-numbers](https://github.com/TechnoTanishq/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/TechnoTanishq/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/TechnoTanishq/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2719-count-of-integers](https://github.com/TechnoTanishq/DSA/tree/master/2719-count-of-integers) |
 | [2801-count-stepping-numbers-in-range](https://github.com/TechnoTanishq/DSA/tree/master/2801-count-stepping-numbers-in-range) |
 | [2827-number-of-beautiful-integers-in-the-range](https://github.com/TechnoTanishq/DSA/tree/master/2827-number-of-beautiful-integers-in-the-range) |
+| [3149-find-the-minimum-cost-array-permutation](https://github.com/TechnoTanishq/DSA/tree/master/3149-find-the-minimum-cost-array-permutation) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/TechnoTanishq/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/TechnoTanishq/DSA/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/TechnoTanishq/DSA/tree/master/3693-climbing-stairs-ii) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/TechnoTanishq/DSA/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [2305-fair-distribution-of-cookies](https://github.com/TechnoTanishq/DSA/tree/master/2305-fair-distribution-of-cookies) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/TechnoTanishq/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3149-find-the-minimum-cost-array-permutation](https://github.com/TechnoTanishq/DSA/tree/master/3149-find-the-minimum-cost-array-permutation) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/TechnoTanishq/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/TechnoTanishq/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/TechnoTanishq/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -426,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2305-fair-distribution-of-cookies](https://github.com/TechnoTanishq/DSA/tree/master/2305-fair-distribution-of-cookies) |
+| [3149-find-the-minimum-cost-array-permutation](https://github.com/TechnoTanishq/DSA/tree/master/3149-find-the-minimum-cost-array-permutation) |
 ## Counting
 |  |
 | ------- |
