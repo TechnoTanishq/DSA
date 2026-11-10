@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/TechnoTanishq/DSA/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/TechnoTanishq/DSA/tree/master/0053-maximum-subarray) |
 | [0079-word-search](https://github.com/TechnoTanishq/DSA/tree/master/0079-word-search) |
+| [0152-maximum-product-subarray](https://github.com/TechnoTanishq/DSA/tree/master/0152-maximum-product-subarray) |
 | [0179-largest-number](https://github.com/TechnoTanishq/DSA/tree/master/0179-largest-number) |
 | [0216-combination-sum-iii](https://github.com/TechnoTanishq/DSA/tree/master/0216-combination-sum-iii) |
 | [0221-maximal-square](https://github.com/TechnoTanishq/DSA/tree/master/0221-maximal-square) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/TechnoTanishq/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/TechnoTanishq/DSA/tree/master/0053-maximum-subarray) |
 | [0097-interleaving-string](https://github.com/TechnoTanishq/DSA/tree/master/0097-interleaving-string) |
+| [0152-maximum-product-subarray](https://github.com/TechnoTanishq/DSA/tree/master/0152-maximum-product-subarray) |
 | [0221-maximal-square](https://github.com/TechnoTanishq/DSA/tree/master/0221-maximal-square) |
 | [0233-number-of-digit-one](https://github.com/TechnoTanishq/DSA/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/TechnoTanishq/DSA/tree/master/0241-different-ways-to-add-parentheses) |
