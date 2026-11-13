@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/TechnoTanishq/DSA/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/TechnoTanishq/DSA/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3149-find-the-minimum-cost-array-permutation](https://github.com/TechnoTanishq/DSA/tree/master/3149-find-the-minimum-cost-array-permutation) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/TechnoTanishq/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3483-unique-3-digit-even-numbers](https://github.com/TechnoTanishq/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/TechnoTanishq/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/TechnoTanishq/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/TechnoTanishq/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/TechnoTanishq/DSA/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [2747-count-zero-request-servers](https://github.com/TechnoTanishq/DSA/tree/master/2747-count-zero-request-servers) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/TechnoTanishq/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/TechnoTanishq/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## String
 |  |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/TechnoTanishq/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/TechnoTanishq/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/TechnoTanishq/DSA/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/TechnoTanishq/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -364,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/TechnoTanishq/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/TechnoTanishq/DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/TechnoTanishq/DSA/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/TechnoTanishq/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/TechnoTanishq/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Memoization
 |  |
@@ -424,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/TechnoTanishq/DSA/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/TechnoTanishq/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Hamiltonian Path
 |  |
 | ------- |
@@ -441,4 +446,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/TechnoTanishq/DSA/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/TechnoTanishq/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/TechnoTanishq/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
