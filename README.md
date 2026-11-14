@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/TechnoTanishq/DSA/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/TechnoTanishq/DSA/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3149-find-the-minimum-cost-array-permutation](https://github.com/TechnoTanishq/DSA/tree/master/3149-find-the-minimum-cost-array-permutation) |
+| [3364-minimum-positive-sum-subarray](https://github.com/TechnoTanishq/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/TechnoTanishq/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3483-unique-3-digit-even-numbers](https://github.com/TechnoTanishq/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/TechnoTanishq/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/TechnoTanishq/DSA/tree/master/0525-contiguous-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/TechnoTanishq/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/TechnoTanishq/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3364-minimum-positive-sum-subarray](https://github.com/TechnoTanishq/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 ## Sliding Window
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/TechnoTanishq/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/TechnoTanishq/DSA/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [2747-count-zero-request-servers](https://github.com/TechnoTanishq/DSA/tree/master/2747-count-zero-request-servers) |
+| [3364-minimum-positive-sum-subarray](https://github.com/TechnoTanishq/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/TechnoTanishq/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/TechnoTanishq/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## String
