@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/TechnoTanishq/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/TechnoTanishq/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/TechnoTanishq/DSA/tree/master/1839-longest-substring-of-all-vowels-in-order) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/TechnoTanishq/DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/TechnoTanishq/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2719-count-of-integers](https://github.com/TechnoTanishq/DSA/tree/master/2719-count-of-integers) |
 | [2801-count-stepping-numbers-in-range](https://github.com/TechnoTanishq/DSA/tree/master/2801-count-stepping-numbers-in-range) |
