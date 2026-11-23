@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/TechnoTanishq/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/TechnoTanishq/DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/TechnoTanishq/DSA/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/TechnoTanishq/DSA/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/TechnoTanishq/DSA/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3149-find-the-minimum-cost-array-permutation](https://github.com/TechnoTanishq/DSA/tree/master/3149-find-the-minimum-cost-array-permutation) |
 | [3364-minimum-positive-sum-subarray](https://github.com/TechnoTanishq/DSA/tree/master/3364-minimum-positive-sum-subarray) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2801-count-stepping-numbers-in-range](https://github.com/TechnoTanishq/DSA/tree/master/2801-count-stepping-numbers-in-range) |
 | [2827-number-of-beautiful-integers-in-the-range](https://github.com/TechnoTanishq/DSA/tree/master/2827-number-of-beautiful-integers-in-the-range) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/TechnoTanishq/DSA/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/TechnoTanishq/DSA/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3149-find-the-minimum-cost-array-permutation](https://github.com/TechnoTanishq/DSA/tree/master/3149-find-the-minimum-cost-array-permutation) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/TechnoTanishq/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/TechnoTanishq/DSA/tree/master/3665-twisted-mirror-path-count) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/TechnoTanishq/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/TechnoTanishq/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/TechnoTanishq/DSA/tree/master/2747-count-zero-request-servers) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/TechnoTanishq/DSA/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/TechnoTanishq/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/TechnoTanishq/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/TechnoTanishq/DSA/tree/master/3886-sum-of-sortable-integers) |
