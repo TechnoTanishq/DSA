@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-unique-paths-iii](https://github.com/TechnoTanishq/DSA/tree/master/0980-unique-paths-iii) |
 | [1254-number-of-closed-islands](https://github.com/TechnoTanishq/DSA/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/TechnoTanishq/DSA/tree/master/1267-count-servers-that-communicate) |
+| [1352-product-of-the-last-k-numbers](https://github.com/TechnoTanishq/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/TechnoTanishq/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1395-count-number-of-teams](https://github.com/TechnoTanishq/DSA/tree/master/1395-count-number-of-teams) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/TechnoTanishq/DSA/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0525-contiguous-array](https://github.com/TechnoTanishq/DSA/tree/master/0525-contiguous-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/TechnoTanishq/DSA/tree/master/0930-binary-subarrays-with-sum) |
+| [1352-product-of-the-last-k-numbers](https://github.com/TechnoTanishq/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/TechnoTanishq/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3364-minimum-positive-sum-subarray](https://github.com/TechnoTanishq/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 ## Sliding Window
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/TechnoTanishq/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/TechnoTanishq/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/TechnoTanishq/DSA/tree/master/0836-rectangle-overlap) |
+| [1352-product-of-the-last-k-numbers](https://github.com/TechnoTanishq/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/TechnoTanishq/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/TechnoTanishq/DSA/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2719-count-of-integers](https://github.com/TechnoTanishq/DSA/tree/master/2719-count-of-integers) |
@@ -439,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/TechnoTanishq/DSA/tree/master/0307-range-sum-query-mutable) |
+| [1352-product-of-the-last-k-numbers](https://github.com/TechnoTanishq/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 ## Sqrt Decomposition
 |  |
 | ------- |
@@ -473,4 +477,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/TechnoTanishq/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/TechnoTanishq/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
