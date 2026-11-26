@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2348-number-of-zero-filled-subarrays](https://github.com/TechnoTanishq/DSA/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2719-count-of-integers](https://github.com/TechnoTanishq/DSA/tree/master/2719-count-of-integers) |
 | [2827-number-of-beautiful-integers-in-the-range](https://github.com/TechnoTanishq/DSA/tree/master/2827-number-of-beautiful-integers-in-the-range) |
+| [3360-stone-removal-game](https://github.com/TechnoTanishq/DSA/tree/master/3360-stone-removal-game) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/TechnoTanishq/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/TechnoTanishq/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/TechnoTanishq/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/TechnoTanishq/DSA/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/TechnoTanishq/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/TechnoTanishq/DSA/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/TechnoTanishq/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Longest Increasing Subsequence
 |  |
